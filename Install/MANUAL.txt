@@ -1,5 +1,8 @@
 miharix-desktop-cam
 ===================
+SourceCode: https://github.com/miharix/miharix-desktop-cam
+Authors blog: http://miharix.eu
+===========================================================
 
 Minimalistic windows application, for live web-cam display.
 Including digital zoom,photo,full screen...
