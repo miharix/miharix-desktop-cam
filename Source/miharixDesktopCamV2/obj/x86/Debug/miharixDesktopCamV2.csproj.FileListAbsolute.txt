@@ -1,0 +1,50 @@
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\miharixDesktopCamV2.exe
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\miharixDesktopCamV2.pdb
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Controls.dll
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.dll
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Imaging.dll
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Video.dll
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Math.dll
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.xml
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Controls.xml
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Imaging.xml
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Video.xml
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Math.xml
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\miharixDesktopCamV2.Properties.Resources.resources
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\miharixDesktopCamV2.exe
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\miharixDesktopCamV2.pdb
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\i7\AppData\Local\Temporary Projects\miharixDesktopCamV2\obj\x86\Debug\miharixDesktopCamV2.Okno.resources
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Controls.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Imaging.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Video.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Math.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharixDesktopCamV2.Okno.resources
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharixDesktopCamV2.Properties.Resources.resources
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\i7\Documents\Visual Studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\miharix_Desktop_Cam.exe.config
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\miharix_Desktop_Cam.exe.manifest
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\miharix_Desktop_Cam.application
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\miharix_Desktop_Cam.exe
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\miharix_Desktop_Cam.pdb
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharix_Desktop_Cam.TrustInfo.xml
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharix_Desktop_Cam.exe.manifest
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharix_Desktop_Cam.application
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharix_Desktop_Cam.exe
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\obj\x86\Debug\miharix_Desktop_Cam.pdb
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Controls.xml
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.xml
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Imaging.xml
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Video.xml
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\i7\documents\visual studio 2010\Projects\miharixDesktopCamV2\miharixDesktopCamV2\bin\Debug\AForge.Math.xml
