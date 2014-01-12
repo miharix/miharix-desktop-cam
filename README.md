@@ -1,14 +1,14 @@
 miharix-desktop-cam
 ===================
 
-Minimalistic windows application, for live webcam display.
-Including digital zoom,photo,full screeen...
+Minimalistic windows application, for live web-cam display.
+Including digital zoom,photo,full screen...
 
-Useful for DIY desktop/document cammera
+Useful for DIY desktop/document camera
 
-Example of a DIY desktop cammera / documett cammera
+Example of a DIY desktop camera / document camera
 
 http://www.instructables.com/id/Convert-overhead-projector-to-overheaddocument-cam/
 
 
-Aplication is translated in to: Slovenian, German, English.
+Application is translated in to: Slovenian, German, English.
