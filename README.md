@@ -38,3 +38,9 @@ F4 = save picture (desktop or predefined folder)
 F5 = Start/Stop web-cam 
 F8 = Show buttons
 F9 = Stay on top
+
+
+Tested Web-cam list:
+ - Microsoft LifeCam VX-5000 [fixed focus] - Working
+ - Philips SPC220NC Webcam [manual focus] (Tip: simple to remove IR filter.) - Working
+ - Canyon CNR-WCAM820HD [manual focus] - Working
